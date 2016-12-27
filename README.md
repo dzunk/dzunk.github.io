@@ -1,4 +1,4 @@
 # dzunk.github.io
 Are we still doing phrasing?
 
-A website on Github Pages.
+A website on Github Pages. Apparently this file is the site root by default?
