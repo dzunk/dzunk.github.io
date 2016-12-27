@@ -2,8 +2,3 @@
 exclude: ["README.md", "LICENSE.md"]
 
 title: Matt Duszynski
-author:
-  name: Matt Duszynski
-
-# Theme and styles
-theme: jekyll-theme-cayman
