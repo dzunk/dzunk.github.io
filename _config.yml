@@ -1,1 +1,9 @@
+# Basic config
+exclude: ["README.md", "LICENSE.md"]
+
+title: Lorem Ipsum
+author:
+  name: Matt Duszynski
+
+# Theme and styles
 theme: jekyll-theme-cayman
