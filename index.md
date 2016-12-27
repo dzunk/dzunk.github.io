@@ -1,9 +1,13 @@
 ---
-title: Doing things
-tagline: Have you ever questioned the nature of your reality?
-description: I'm So Meta Even This Acronym
+title: Dzunk
 ---
 
-# Lorem Ipsum
-Lorem ipsum dolor sit amet.
-sdkfjhlsdkjhfljksdhf;lsd
+# Matt Duszynski
+This is the first sentence. This is the second sentence.
+
+## Section One
+This is the first section.
+
+- List item one.
+- List item two.
+- A third list item for good measure.
