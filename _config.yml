@@ -1,4 +1,10 @@
 # Basic config
+title: Expect Music and Riots
 exclude: ["README.md", "LICENSE.md"]
 theme: minima
-title: Matt Duszynski
+permalink: pretty
+
+# My info
+author: Matt Duszynski
+github_username: dzunk
+description: "Sometimes science is more art than science."
