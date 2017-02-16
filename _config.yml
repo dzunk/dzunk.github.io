@@ -3,8 +3,13 @@ title: Expect Music and Riots
 exclude: ["README.md", "LICENSE.md"]
 theme: minima
 permalink: pretty
+url: http://matt.duszyn.ski
 
 # My info
 author: Matt Duszynski
 github_username: dzunk
 description: "Sometimes science is more art than science."
+
+# Plugin config
+gems:
+  - jekyll-feed
